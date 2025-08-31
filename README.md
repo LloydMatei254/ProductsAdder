@@ -1,4 +1,7 @@
 # ProductsAdder
+![WhatsApp Image 2025-09-01 at 01 52 55_42155470](https://github.com/user-attachments/assets/5f1de078-0314-43b8-914c-b3686d746709)
+![WhatsApp Image 2025-09-01 at 01 52 55_9bbca18f](https://github.com/user-attachments/assets/6589284d-0965-4ae0-9bb7-999acfa9a25b)
+![WhatsApp Image 2025-09-01 at 01 52 55_11560cb8](https://github.com/user-attachments/assets/6cd18654-b793-439e-a81d-91ec970b292a)
 
 An Android application for adding and managing products with Firebase integration. This app allows users to add products with images, descriptions, prices, and other details, storing them in Firebase Firestore and Firebase Storage.
 
