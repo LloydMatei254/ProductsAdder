@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "137781416915",
+    "project_id": "keline-230a2",
+    "storage_bucket": "keline-230a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137781416915:android:ebb3f67644692a5f089526",
+        "android_client_info": {
+          "package_name": "com.example.keline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi_Xp7XtD-oT30jr2hy29rbK6kAhTtRF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137781416915:android:a5921eff06bda818089526",
+        "android_client_info": {
+          "package_name": "com.example.productsadder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi_Xp7XtD-oT30jr2hy29rbK6kAhTtRF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
